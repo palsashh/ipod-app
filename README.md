@@ -76,4 +76,4 @@ For any questions or suggestions, feel free to reach out:
 - **Name:** Shashi Pal
 - **Email:** shaship7497@gmail.com
 - **LinkedIn:** [Shashi Pal](https://www.linkedin.com/in/shashipal1/)
-- **GitHub:** [your-username](https://github.com/palsashh)
+- **GitHub:** [palsashh](https://github.com/palsashh)
